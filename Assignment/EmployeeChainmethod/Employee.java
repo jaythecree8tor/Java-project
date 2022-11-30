@@ -40,8 +40,4 @@ public class Employee {
         System.out.println("Name: " + name + "\nId: " + id + "Position: " + position + "\nSalary: " + salary);
         return this;
     }
-
-
-
-
 }
