@@ -13,7 +13,7 @@ public class Employee {
     public String showString()
     {
         System.out.println("Name: " + name + "\nId: " + id + "Position: " + position + "\nSalary: " + salary);
-        return "Hello...Here's our employee details";
+        return "\nHello...Here's our employee details";
     }
     public double showPercent()
     {
