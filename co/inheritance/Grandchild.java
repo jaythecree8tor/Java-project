@@ -1,5 +1,5 @@
-package inheritance;
+// package inheritance;
 
-public class Grandchild extends Child{
+// public class Grandchild extends Child{
     
-}
+// }
